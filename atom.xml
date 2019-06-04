@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qianmucheng.github.io/article</id>
     <title>千木呈</title>
-    <updated>2019-06-04T03:53:24.313Z</updated>
+    <updated>2019-06-04T06:18:49.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qianmucheng.github.io/article"/>
     <link rel="self" href="https://qianmucheng.github.io/article/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2019, 千木呈</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://qianmucheng.github.io/article/post/hello-gridea</id>
-        <link href="https://qianmucheng.github.io/article/post/hello-gridea">
+        <id>https://qianmucheng.github.io/article/post/hello</id>
+        <link href="https://qianmucheng.github.io/article/post/hello">
         </link>
         <updated>2019-06-04T03:50:08.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
